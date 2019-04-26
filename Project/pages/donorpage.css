@@ -1,0 +1,106 @@
+.donors {
+    height: 600px;
+}
+
+.donors .donors_input {
+    background: #01d262 none repeat scroll 0 0;
+    float: left;
+    height: 600px;
+    text-align: center;
+    width: 50%;
+}
+
+.donors .donors_input h2,
+.donors .donors_image h2 {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 75px 0 50px;
+    text-align: center;
+}
+
+.donors .donors_image h2 {
+    color: rgba(47, 170, 164, 0.925);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+    font-size: 50px;
+    
+}
+
+.donors .donors_input p {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 35px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.donors .donors_input p input {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.donors .donors_input h5 {
+    margin: 65px auto 0;
+    max-width: 500px;
+}
+
+.donors .donors_input h5 input {
+    background: #01d262 none repeat scroll 0 0;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    padding: 17px 20px;
+    width: 47%;
+}
+
+.donors .donors_input h5 input[type="text"] {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    margin-right: 2%;
+}
+
+.donors .donors_input h5 input[type="email"] {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    margin-left: 2%;
+}
+
+.donors .donors_input input[type="submit"] {
+    background: #fff none repeat scroll 0 0;
+    border: 2px solid #01d262;
+    border-radius: 10px;
+    color: #01d262;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 45px;
+    padding: 15px 40px;
+}
+
+.donors .donors_input h4 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.donors .donors_input h4 select {
+    width: 500px;
+    background: #01d262 none repeat scroll 0 0;
+    border: none;
+    padding: 17px 20px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+}
+
+
